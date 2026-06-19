@@ -1,4 +1,4 @@
-# machine_learn_0526
+# MLP (Multi-Layer Perceptron)
 
 Projeto dedicado ao estudo e implementação do **MLP (Multi-Layer Perceptron)**, um tipo de rede neural artificial com múltiplas camadas ocultas capaz de resolver problemas de classificação não linearmente separáveis. O projeto implementa um classificador MLP completo "from scratch" utilizando **PyTorch**, explorando arquitetura de rede, funções de ativação, regularização e early stopping.
 
